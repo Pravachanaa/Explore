@@ -1,0 +1,209 @@
+*{
+    margin:0px;
+}
+.bg_img{
+    background-image: url("https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2021_11/story_4363/assets/9.jpeg?time=1637826004&size=*:900");
+    background-size: cover;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+  
+}
+.container1{
+    text-align:center;
+    padding:30px;
+    
+}
+.head{
+    padding:5px;
+    font-size:30px;
+    color: black;
+    font-weight:20px;
+    margin:10px;
+   
+}
+
+.para{
+    padding:5px;
+    font-size:25px;
+    color:rgb(2, 16, 27);
+    font-weight:10px;
+    margin:10px;
+}
+.btnb{
+   border-radius: 30px;
+   width:120px;
+   padding:8px;
+   background-color: rgb(231, 221, 172);
+   font-size:15px;
+   border:none;
+   margin-bottom:10px;
+   cursor: pointer;
+}
+.img{
+    width:100%;
+    height:100%;
+    cursor: pointer;
+}
+.bg_im2{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4f/Night_view_of_Prakasam_Barrage.jpg");
+    background-size: cover;
+    height:100vh;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content: center;
+    
+
+}
+.container2{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+}
+.card1{
+    background-color: aliceblue;
+    height:20%;
+    width:75%;
+    color:black;
+    margin:10px;
+    display:flex;
+    flex-direction: row;
+    padding-bottom:6px;
+}
+.card2{
+    background-color: aliceblue;
+    height:20%;
+    width:75%;
+    color:black;
+    margin:10px;
+    display: flex;
+    flex-direction: row;
+    padding-bottom:6px;
+    
+}
+
+.card3{
+    background-color: aliceblue;
+    height:20%;
+    width:75%;
+    color:black;
+    margin:10px;
+    display: flex;
+    flex-direction: row;
+    padding-bottom:6px;
+    
+}
+
+.card4{
+    background-color: aliceblue;
+    height:20%;
+    width:75%;
+    color:black;
+    margin:10px;
+    display: flex;
+    flex-direction:row;
+    padding-bottom:6px;
+    
+}
+.img{
+    height: 100px;
+    width: 150px;
+    margin:5px;
+
+}
+.subcard{
+    text-align:justify;
+}
+.heading{
+    font-size:25px;
+    margin:3px;
+    margin-top:0px;
+}
+.paragraph{
+    font-size:15px;
+    margin:5px;
+}
+.bg_img3{
+    background-image: url(https://1.bp.blogspot.com/-3gXe10RCkMU/YCZbD3YCi9I/AAAAAAAADZQ/sw4pWeDRHMEyg4Dz-jxFDooxwOhxfBnFgCLcBGAsYHQ/s2048/Kondapalli%2BFort%2Bin%2BVijayawada.jp);
+    background-size: cover;
+    height:100vh;
+    margin:0px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+    
+}
+
+.image{
+    height:75%;
+    width:100%;
+}
+.cont3{
+  
+    width:80%;
+    background-color: white;
+    flex-direction:row;
+    align-items:center;
+    justify-content: center;
+    margin:10px;
+    margin-bottom:0px;
+}
+.desc{
+    justify-content: center;
+    font-size:12px;
+    font-weight:500;
+    text-align: justify;
+    padding:7px;
+    padding-bottom:1px;
+}
+.bg_img4{
+
+    background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b5/db/4f/prakasam-barrage.jpg?w=1200&h=-1&s=1");
+    background-size: cover;
+    height:100vh;
+    margin:0px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+    
+}
+.bg_img5{
+
+    background-image: url("https://www.greatandhra.com/newphotos10/Kondaveedu1638935316.jpg");
+    background-size: cover;
+    height:100vh;
+    margin:0px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+    
+}
+.bg_img6{
+
+    background-image: url("https://aptourism.gov.in/media-data/images/848/bhavani.jpg");
+    background-size: cover;
+    height:100vh;
+    margin:0px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+    
+}
+.d-block{
+    width:500px;
+    height:400px;
+}
+.matter{
+    width:80%;
+    background-color:white;
+    margin-bottom:5px;
+}
+
